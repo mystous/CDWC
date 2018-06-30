@@ -16,5 +16,5 @@ Software developers can find tasks which they can contribute. Project owner can 
 
 CDWC is currently devloping on the way.
 
-If you want to talk about CDWC, come and join 'http://cdwcsw.slack.com' or send email me.
+If you want to talk about CDWC, come and join 'http://cdwcws.slack.com' or send email me.
 
